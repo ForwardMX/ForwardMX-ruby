@@ -1,5 +1,7 @@
 # ForwardMX
 
+[![Gem](https://img.shields.io/gem/dt/ForwardMX.svg)](https://rubygems.org/gems/ForwardMX)
+
 Manage [ForwardMX](https://ForwardMX.io) email forwarding and aliases in your Ruby applications.
 
 ## Installation
